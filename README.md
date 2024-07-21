@@ -5,6 +5,7 @@
 * [QBasic](https://en.wikipedia.org/wiki/QBasic)
   - [Pete's QBasic Site](http://www.petesqbsite.com/)
   - [Programmed Lessons](https://chortle.ccsu.edu/QBasic/index.html)
+  - [QB64 - Wiki](https://qb64.com/wiki.html)
   - [Wikibook](https://en.wikibooks.org/wiki/QBasic)
 
 ---
