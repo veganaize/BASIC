@@ -7,6 +7,7 @@
   - [Programmed Lessons](https://chortle.ccsu.edu/QBasic/index.html)
   - [QB64 - Wiki](https://qb64.com/wiki.html)
   - [Wikibook](https://en.wikibooks.org/wiki/QBasic)
+  - [Ctrl-Break in DOSBox](http://tedfelix.com/Technology/ctrl-break-in-dosbox.html)
 
 ---
 
