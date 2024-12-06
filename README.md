@@ -11,6 +11,7 @@
   - [QB64 - Wiki](https://qb64.com/wiki.html)
   - [Wikibook](https://en.wikibooks.org/wiki/QBasic)
   - [Ctrl-Break in DOSBox](http://tedfelix.com/Technology/ctrl-break-in-dosbox.html)
+  - [Download QBasic](https://web.archive.org/web/20070403202931id_/http://download.microsoft.com/download/win95upg/tool_s/1.0/W95/EN-US/olddos.exe) - version 1.1 from microsoft.com olddos.exe archive!
 
 ### VB _(classic)_
 * [Visual Basic 5 CCE](https://web.archive.org/web/20011223080723id_/http://msdl.microsoft.com/msdownload/sbn/vbcce/vb5ccein.exe)
